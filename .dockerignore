@@ -1,0 +1,15 @@
+.DS_Store
+
+# pyenv
+.python-version
+
+# Environments
+.env*
+
+# Django stuff:
+db.sqlite3
+
+#Git
+.git
+.gitignore
+data
